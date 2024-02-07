@@ -1,4 +1,6 @@
-TASK 1: Number Game
+**JAVA DEVELOPMENT Internship - CODSOFT**
+
+**TASK 1:** Number Game
 
 Generate a random number within a specified range, such as 1 to 100.
 Prompt the user to enter their guess for the generated number.
@@ -10,7 +12,7 @@ Limit the number of attempts the user has to guess the number.
 Add the option for multiple rounds, allowing the user to play again.
 Display the user's score, which can be based on the number of attempts taken or rounds won.
 
-TASK 2: Student Grade Calculator
+**TASK 2:** Student Grade Calculator
 
 Input: Take marks obtained (out of 100) in each subject.
 Calculate Total Marks: Sum up the marks obtained in all subjects.
@@ -19,7 +21,7 @@ average percentage.
 Grade Calculation: Assign grades based on the average percentage achieved.
 Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 
-TASK 3: ATM Interface
+**TASK 3:** ATM Interface
 
 Create a class to represent the ATM machine.
 Design the user interface for the ATM, including options such as withdrawing, depositing, and
